@@ -1,0 +1,13 @@
+.abs-box{
+
+    background-color:#b723b9;
+    width: 300px;
+    height: 100px;
+}
+.vh-box{
+
+    width: 75vw;
+    height: 200px;
+    background-color: #f82394;
+}
+
